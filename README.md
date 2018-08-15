@@ -5,3 +5,9 @@ This is just a simple demonstration app to use electron and react to develop des
 It uses create-react-app to generate react project and integrate electron with it, without ejecting the configurations of create-react-app.
 
 Develop Awesome Desktop Applications using React and Electron
+
+Running / Development
+* yarn dev
+
+Building
+* yarn run ebuild
